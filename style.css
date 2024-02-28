@@ -47,3 +47,7 @@ div {
 .stars-chevron {
     color: var(--icon-color);
 }
+
+.bi-star-fill {
+    margin: 1px;
+}
