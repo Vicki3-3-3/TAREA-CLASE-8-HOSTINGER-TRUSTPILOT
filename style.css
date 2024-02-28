@@ -18,6 +18,7 @@ section {
     font-family: var(--main-font);
     background-color: white;
     color: var(--font-color);
+    padding: 60px;
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
@@ -28,7 +29,7 @@ section {
 article {
     background-color: var(--primary-background-color);
     width: 294px;
-    height: 200px;
+    height: 246px;
     padding: 10px;
     display: flex;
     flex-wrap: nowrap;
