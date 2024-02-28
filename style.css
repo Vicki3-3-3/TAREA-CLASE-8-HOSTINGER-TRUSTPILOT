@@ -4,7 +4,7 @@
 :root {
     --icon-color: rgb(0, 176, 146);
     --primary-background-color: #fafbffd7;
-    --font-color: rgb(27, 31, 34);
+    --font-color: rgb(24, 24, 24);
     --main-font: DM Sans, sans serif;
 }
 
@@ -17,6 +17,7 @@
 section {
     font-family: var(--main-font);
     background-color: white;
+    color: var(--font-color);
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
