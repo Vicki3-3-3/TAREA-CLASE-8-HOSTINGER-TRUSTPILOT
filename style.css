@@ -28,6 +28,7 @@ article {
     background-color: var(--primary-background-color);
     width: 294px;
     height: 200px;
+    padding: 10px;
     display: flex;
     flex-wrap: nowrap;
     flex-direction: column;
