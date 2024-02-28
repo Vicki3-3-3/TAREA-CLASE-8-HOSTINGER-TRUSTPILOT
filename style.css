@@ -26,8 +26,8 @@ section {
 
 article {
     background-color: var(--primary-background-color);
-    height: 300px;
     width: 294px;
+    height: 200px;
     display: flex;
     flex-wrap: nowrap;
     flex-direction: column;
